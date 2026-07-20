@@ -14,12 +14,17 @@
 
 Long Short story, Neku Is a girl basicly. but th eowner is a sigma male. i made her because i really hate being a boy. she still there but just being my alter ego that never be appear in my iife again, recently. i love to be something that people need help. i love helping people. im bad at every language, but i good at math and art.
 
-- 🔭 Currently working on
+---
+
+## 🔭 Currently working on
+
 | Nama Projek | Tech Stack | Status | Deskripsi Singkat |
 | :--- | :--- | :--- | :--- |
 | **WA-Automate-Bot** | Node.js, Venom-Bot, Baileys | `Done` | Bot WhatsApp otomatis buat handle trigger command, auto-reply, dan media handling. |
 | **AI-Brain-Sandbox** | Python, PyTorch, Scikit-Learn | `WIP` | Eksperimen deep learning pribadi, optimasi pipeline, dan fine-tuning model text/image. |
 | **Neuro-Core** | Python, TensorFlow, Keras | `Archived` | Prototiping arsitektur neural network sederhana buat klasifikasi data kustom. |
+
+---
 
 - 🌱 Currently learning: Deep learning and LLM
 - 📫 Reach me: wa.me/6281223003123
