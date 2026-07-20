@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm [YOUR NAME] 👋</h1>
 
-<!--
-**ItsNekuKL/ItsNekuKL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/ItsNekuKL/Neku-Private-Testing/blob/33ae2329250eb1b5357e0cad93de99378e570c6f/.github/images/Nefer%20GFX%20-%20Profile.png" width="180" style="border-radius:50%" alt="profile photo"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbCEu9X5q08kHJ4KKA2z">
+    <img src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Group"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+[Write your story here — who you are, what you do, what you're learning,
+what you're passionate about. 3-5 sentences is plenty.]
+
+- 🔭 Currently working on: ...
+- 🌱 Currently learning: ...
+- 💬 Ask me about: ...
+- 📫 Reach me: ...
+
+## 📊 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="GitHub stats"/>
+</p>
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td>
+      <b>Project One</b><br/>
+      Short description of what it does.<br/>
+      <a href="https://github.com/Regardy/Nagato-new">Repo →</a>
+    </td>
+    <td>
+      <b>Project Two</b><br/>
+      Short description of what it does.<br/>
+      <a href="https://github.com/ItsNekuKL/Univesity-Task">Repo →</a>
+    </td>
+  </tr>
+</table>
