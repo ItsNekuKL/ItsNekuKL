@@ -27,7 +27,13 @@ Long Short story, Neku Is a girl basicly. but th eowner is a sigma male. i made 
 ---
 
 - 🌱 Currently learning: Deep learning and LLM
-- 📫 Reach me: wa.me/6281223003123
+
+- 📫 Reach me:
+<p align="center">
+  <a href="https://wa.me/6281223003123">
+    <img src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contct me for business only"/>
+  </a>
+</p>
 
 ## 📊 My Stats
 
