@@ -1,7 +1,7 @@
 <h1 align="center">Hello Shit World, I`m Neku 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/ItsNekuKL/Neku-Private-Testing/blob/d89d3d0dec3adc811e0b6fd4a67b08944f3b3406/.github/images/Profile%20Nefer.png" width="600"/>
+  <img src="https://github.com/ItsNekuKL/ItsNekuKL/blob/72ddfbcb59e09f5fd4a2eaccdd4b96e6c8a1fba6/Profile%20Nefer.png" width="600"/>
 </p>
 
 <p align="center">
