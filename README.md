@@ -39,12 +39,12 @@ Not made yet, i will think about it later
   <tr>
     <td>
       <b>Project One</b><br/>
-      Short description of what it does.<br/>
+      Whatsapp Bot Script<br/>
       <a href="https://github.com/Regardy/Nagato-new">Repo →</a>
     </td>
     <td>
       <b>Project Two</b><br/>
-      Short description of what it does.<br/>
+      University Project that idk where else to put<br/>
       <a href="https://github.com/ItsNekuKL/Univesity-Task">Repo →</a>
     </td>
   </tr>
