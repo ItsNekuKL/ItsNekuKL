@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm [YOUR NAME] 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/ItsNekuKL/Neku-Private-Testing/blob/33ae2329250eb1b5357e0cad93de99378e570c6f/.github/images/Nefer%20GFX%20-%20Profile.png" width="180" style="border-radius:50%" alt="profile photo"/>
+  <img src="https://github.com/ItsNekuKL/Neku-Private-Testing/blob/33ae2329250eb1b5357e0cad93de99378e570c6f/.github/images/Nefer%20GFX%20-%20Profile.png" width="600" style="border-radius:50%" alt="profile photo"/>
 </p>
 
 <p align="center">
