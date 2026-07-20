@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [YOUR NAME] 👋</h1>
+<h1 align="center">Hello Shit World, I`m Neku 👋</h1>
 
 <p align="center">
   <img src="https://github.com/ItsNekuKL/Neku-Private-Testing/blob/33ae2329250eb1b5357e0cad93de99378e570c6f/.github/images/Nefer%20GFX%20-%20Profile.png" width="600" style="border-radius:50%" alt="profile photo"/>
@@ -12,19 +12,21 @@
 
 ## 🧑‍💻 About Me
 
-[Write your story here — who you are, what you do, what you're learning,
-what you're passionate about. 3-5 sentences is plenty.]
+Long Short story, Neku Is a girl basicly. but th eowner is a sigma male. i made her because i really hate being a boy. she still there but just being my alter ego that never be appear in my iife again, recently. i love to be something that people need help. i love helping people. im bad at every language, but i good at math and art.
 
-- 🔭 Currently working on: ...
-- 🌱 Currently learning: ...
-- 💬 Ask me about: ...
-- 📫 Reach me: ...
+- 🔭 Currently working on
+| Nama Projek | Tech Stack | Status | Deskripsi Singkat |
+| :--- | :--- | :--- | :--- |
+| **WA-Automate-Bot** | Node.js, Venom-Bot, Baileys | `Done` | Bot WhatsApp otomatis buat handle trigger command, auto-reply, dan media handling. |
+| **AI-Brain-Sandbox** | Python, PyTorch, Scikit-Learn | `WIP` | Eksperimen deep learning pribadi, optimasi pipeline, dan fine-tuning model text/image. |
+| **Neuro-Core** | Python, TensorFlow, Keras | `Archived` | Prototiping arsitektur neural network sederhana buat klasifikasi data kustom. |
+
+- 🌱 Currently learning: Deep learning and LLM
+- 📫 Reach me: wa.me/6281223003123
 
 ## 📊 My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
+Not made yet, i will think about it later
 
 ## 🚀 Projects
 
