@@ -37,7 +37,7 @@ Long Short story, Neku Is a girl basicly. but the owner is a sigma male. i made 
   </a>
 </p>
 
-<h2 align="center">## 📊 My Stats</h2>
+<h2 align="center">📊 My Stats</h2>
 
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=ItsNekuKL&theme=radical">
