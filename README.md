@@ -41,7 +41,7 @@ Long Short story, Neku Is a girl basicly. but the owner is a sigma male. i made 
 </p>
 
 <h2 align="center">🚀 Projects</h2>
-<table>
+<table align="center">
   <tr>
     <td>
       <b>Project One</b><br/>
