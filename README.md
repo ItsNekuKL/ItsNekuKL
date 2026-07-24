@@ -35,7 +35,7 @@ Long Short story, Neku Is a girl basicly. but the owner is a sigma male. i made 
     <img src="https://img.shields.io/badge/WhatsApp-Contct%20me%20for%20business%20only-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contct me for business only"/>
 <h2 align="center">📊 My Stats</h2>
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=ItsNekuKL&theme=radical">
+  <a href="https://github.com/ItsNekuKL">
     <img src="https://github-stats-extended.vercel.app/api?username=ItsNekuKL&theme=radical"/>
   </a>
 </p>
