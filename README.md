@@ -21,7 +21,7 @@ Long Short story, Neku Is a girl basicly. but the owner is a sigma male. i made 
 
 | Nama Projek | Tech Stack | Status | Deskripsi Singkat |
 | :--- | :--- | :--- | :--- |
-| **Design and Animator** | Alight Motion, Capcut | `Active [open commmission` | make an edit, animate things and make a design for commercial. |
+| **Design and Animator** | Alight Motion, Capcut | `Active - [open commmission]` | make an edit, animate things and make a design for commercial. |
 | **WA-Automate-Bot** | Node.js, Venom-Bot, Baileys | `Done` | Bot WhatsApp otomatis buat handle trigger command, auto-reply, dan media handling. |
 | **AI-Brain-Sandbox** | Python, PyTorch, Scikit-Learn | `WIP` | Eksperimen deep learning pribadi, optimasi pipeline, dan fine-tuning model text/image. |
 | **Neuro-Core** | Python | `Archived` | Prototiping arsitektur neural network sederhana buat klasifikasi data kustom. |
