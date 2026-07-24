@@ -1,5 +1,4 @@
 <h1 align="center">Hello Shit World, I`m Neku, The Forgotten mentality</h1>
-
 <p align="center">
   <img src="https://github.com/ItsNekuKL/ItsNekuKL/blob/72ddfbcb59e09f5fd4a2eaccdd4b96e6c8a1fba6/Profile%20Nefer.png" width="600"/>
 </p>
