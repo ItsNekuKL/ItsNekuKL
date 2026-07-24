@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-Long Short story, Neku Is a girl basicly. but th eowner is a sigma male. i made her because i really hate being a boy. she still there but just being my alter ego that never be appear in my iife again, recently. i love to be something that people need help. i love helping people. im bad at every language, but i good at math and art.
+Long Short story, Neku Is a girl basicly. but the owner is a sigma male. i made her because i really hate being a boy. she still there but just being my alter ego that never be appear in my iife again, recently. i love to be something that people need help. i love helping people. im bad at every language, but i good at math and art.
 
 ---
 
