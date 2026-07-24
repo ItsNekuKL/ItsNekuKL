@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbCEu9X5q08kHJ4KKA2z">
-    <img src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel - love giving help and some advice for art" width="175"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel - love giving help and some advice for art" width="200"/>
     <img src="https://komarev.com/ghpvc/?username=ItsNekuKL&color=green" width="125"/>
   </a>
 </p>
