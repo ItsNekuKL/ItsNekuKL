@@ -46,12 +46,16 @@ Long Short story, Neku Is a girl basicly. but the owner is a sigma male. i made 
     <td>
       <b>Project One</b><br/>
       Whatsapp Bot Script<br/>
-      <a href="https://github.com/Regardy/Nagato-new">Repo →</a>
+      <a href="https://github.com/Regardy/Nagato-new">
+        Repo →
+      </a>
     </td>
     <td>
       <b>Project Two</b><br/>
       University Project that idk where else to put<br/>
-      <a href="https://github.com/ItsNekuKL/Univesity-Task">Repo →</a>
+      <a href="https://github.com/ItsNekuKL/Univesity-Task">
+        Repo →
+      </a>
     </td>
   </tr>
 </table>
